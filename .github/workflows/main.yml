@@ -1,4 +1,5 @@
 # .github/workflows/main.yml
+# Заного надо запустить
 name: Main Taski workflow
 
 on:
